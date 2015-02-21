@@ -6,6 +6,7 @@ gem 'rails', '4.1.4'
 gem 'rails-api'
 
 gem 'pg'
+gem 'figaro'
 
 group :development do
   gem 'sqlite3'
