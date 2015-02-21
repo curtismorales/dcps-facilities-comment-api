@@ -13,3 +13,5 @@ A comment should look like
   "user_type": "parent"
 }
 ```
+
+[The API is live on Heroku](https://dcps-facilities-comment-api.herokuapp.com/)
