@@ -15,3 +15,12 @@ A comment should look like
 ```
 
 The API is live on Heroku at https://dcps-facilities-comment-api.herokuapp.com/
+
+To install and run locally, you should be able to just
+```
+bundle install
+rake db:migrate
+rails s
+```
+
+Feel free to add issues or submit pull requests!
