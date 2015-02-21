@@ -14,4 +14,4 @@ A comment should look like
 }
 ```
 
-[The API is live on Heroku](https://dcps-facilities-comment-api.herokuapp.com/)
+The API is live on Heroku at https://dcps-facilities-comment-api.herokuapp.com/
